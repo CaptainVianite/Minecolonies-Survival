@@ -70,9 +70,8 @@ hash = "8b90ce2e01cfa5d80324aced900f99c86f800dd2e8e817333b97b3b999cb3321"
 metafile = true
 
 [[files]]
-file = "mods/endremastered.pw.toml"
-hash = "b703ed9919c27035e500ebff21994abd622e9e01d36683ea8c69c55dd2da47e2"
-metafile = true
+file = "mods/endrem_forge-5.1.0-R-1.19 (1).jar"
+hash = "51db135342b18f34e7e2865a51069720b3fd7dfd23da8c9a5ccbdd6d41d7a7e3"
 
 [[files]]
 file = "mods/equipment-compare.pw.toml"
@@ -139,9 +138,8 @@ hash = "8994b3237f57b9b21b5334fda0b7793bb88181d6ea4e36e6e0aff26e178dcf5e"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "2bb5e17d55dcb17b303397b5809566e87858733a4e706cfb5a5fea0d5b44b7fa"
-metafile = true
+file = "mods/moreoverlays-1.21.1-mc1.19 (1).jar"
+hash = "e5e7a4d9b85a70cd8e1ab87bd7ec9149b77de44cd5875997d6ecf01c1a26fdd9"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
