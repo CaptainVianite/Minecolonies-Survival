@@ -1,13 +1,13 @@
-name = "packwiz Example Pack"
-author = "comp500"
-version = "1.0.0"
-pack-format = "packwiz:1.0.0"
+name = "Village Survival"
+author = "CaptainVianite"
+version = "1.0"
+pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8d30991d357781975f5779145fa8ea36721d81451237f94551ee4ddcf2005472"
+hash = "f74f77a40cb5abe6753867e843b088eca765fecc873bdb48635ae5f86fecea6a"
 
 [versions]
-fabric = "0.12.12"
-minecraft = "1.18.1"
+forge = "41.0.63"
+minecraft = "1.19"

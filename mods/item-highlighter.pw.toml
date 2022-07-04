@@ -1,0 +1,13 @@
+name = "Item Highlighter"
+filename = "Highlighter-1.19-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e975979439f65f368cfdfc2997dfb079f2071798"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3840803
+project-id = 521590

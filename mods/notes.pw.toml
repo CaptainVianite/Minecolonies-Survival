@@ -1,0 +1,13 @@
+name = "Notes"
+filename = "Notes-1.19-1.2.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f4cbc161fd2c566787e1a70785620425fefa8883"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3845811
+project-id = 256087
