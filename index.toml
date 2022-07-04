@@ -11,6 +11,11 @@ hash = "c9184c621a9780a17d278a247cb84cab56ccf962039f4fd2f67f74cbee170b7a"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "3272153d41aa410c3b1f71f6335c3d46a082bbfa76cc0c431557c363bfddb7f9"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "a6d3c1a07e756964a2df173d3015046de37d91fbd293b5da84d8587c70dbdc4b"
 metafile = true
@@ -120,6 +125,11 @@ hash = "b1ab78bd63085cda7651eb0329af654c6dbb7faf48cfc3b8259bdb4f612f8fa0"
 metafile = true
 
 [[files]]
+file = "mods/mahou-tsukai.pw.toml"
+hash = "cf3fdce26e5c06cd47445cbb9ab46c92ec6caefa5afcf2a9aa2465377fdffede"
+metafile = true
+
+[[files]]
 file = "mods/mapfrontiers.pw.toml"
 hash = "f1fad6b5f36fe927d87c861198ff7c9a1899dbd0ed62b291a096428f69c62581"
 metafile = true
@@ -158,6 +168,11 @@ hash = "789ee44643ec7ccc39e8f9252dbff209bcdeaa1036594d3a5b9e165cb072f119"
 metafile = true
 
 [[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "828279ded0a0b1d151afcfb067691ac353cfc459cc6763ea4b976203559ae686"
+metafile = true
+
+[[files]]
 file = "mods/notes.pw.toml"
 hash = "e6d277530606d8aee85465689dc342230502bd0fd00ea50e90427719276d0b65"
 metafile = true
@@ -185,6 +200,16 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rich-presence.pw.toml"
 hash = "1f8e5c89914571fe2eac92df0996cbad2d74043828f93c860c25e3f543e9834a"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "a1efc5e0de5d76825e57a40641c9e97c0fbd7aa25a86ccc82c0ffaa3a2c6ea89"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "5ec44a3cbd334c6e7779da4e8d6a209e29c2edbe484c98ff6c0e999e425a0acc"
 metafile = true
 
 [[files]]
