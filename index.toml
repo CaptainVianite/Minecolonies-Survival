@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "icon.png"
+hash = "705926b13b31b8344ea33ef9117849b6a5b2852a49837d71d3d72e90f9742478"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "f0fe061476f80e26b8c66cee47fc3e7358e82e23f0aa31a847db8dd48d10a9d8"
 metafile = true
