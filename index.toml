@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "_config.yml"
+hash = "91330137f6537697be5cf6f4f05651b945d920325cbea69601d95e3d06a68019"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "f0fe061476f80e26b8c66cee47fc3e7358e82e23f0aa31a847db8dd48d10a9d8"
 metafile = true
