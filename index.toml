@@ -120,11 +120,6 @@ hash = "f84f573ed07d2eeba3a26cb389ba5c2ca32f73c6e5e91996923f1fd0d7697f4c"
 metafile = true
 
 [[files]]
-file = "mods/limited-lives.pw.toml"
-hash = "b1ab78bd63085cda7651eb0329af654c6dbb7faf48cfc3b8259bdb4f612f8fa0"
-metafile = true
-
-[[files]]
 file = "mods/mahou-tsukai.pw.toml"
 hash = "cf3fdce26e5c06cd47445cbb9ab46c92ec6caefa5afcf2a9aa2465377fdffede"
 metafile = true
