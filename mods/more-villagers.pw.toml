@@ -1,0 +1,13 @@
+name = "More Villagers"
+filename = "morevillagers-forge-1.19-4.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "50ecf4cfcc8e1c08a5877b2c25a377e7925819be"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3843499
+project-id = 484954

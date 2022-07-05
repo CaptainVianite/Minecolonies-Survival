@@ -80,6 +80,16 @@ hash = "3d4f5b20edab2ff98ac0c9967a183b92a8f8a68d6672ba71d281d4082ff4c057"
 metafile = true
 
 [[files]]
+file = "mods/farsight.pw.toml"
+hash = "f2078e00aad041ef32f703f377197aa3732b1120529cf718b2c5abbc28c99640"
+metafile = true
+
+[[files]]
+file = "mods/goblin-traders.pw.toml"
+hash = "cf34439d6fc7385cbf74aa7325f5e5878d468b032a40ac4423e3337c2f63de7e"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "0cec9c0188c1498488e399868fb6c810917a50d626efed20054c949e8d7d4f6e"
 metafile = true
@@ -139,6 +149,11 @@ hash = "8994b3237f57b9b21b5334fda0b7793bb88181d6ea4e36e6e0aff26e178dcf5e"
 metafile = true
 
 [[files]]
+file = "mods/more-villagers.pw.toml"
+hash = "7accd1bce77b502eb2ed1453b5ad8743f142e7afe56dab9793768df6c3507a1e"
+metafile = true
+
+[[files]]
 file = "mods/moreoverlays-1.21.1-mc1.19 (1).jar"
 hash = "e5e7a4d9b85a70cd8e1ab87bd7ec9149b77de44cd5875997d6ecf01c1a26fdd9"
 
@@ -150,6 +165,11 @@ metafile = true
 [[files]]
 file = "mods/multi-piston.pw.toml"
 hash = "fb2ff7a3ea47397d3923c2dd9749435c08f907f0e83756786f202b8c2c0bff85"
+metafile = true
+
+[[files]]
+file = "mods/my-server-is-compatible.pw.toml"
+hash = "6aa0e8ea7438ac6736f1fd602e0407f445bb366ba7b3071dad6fffcd382d89bf"
 metafile = true
 
 [[files]]
@@ -200,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "5ec44a3cbd334c6e7779da4e8d6a209e29c2edbe484c98ff6c0e999e425a0acc"
+metafile = true
+
+[[files]]
+file = "mods/strawgolem-reborn.pw.toml"
+hash = "edf2f77797538e47d510bb976e7319a7ffb1ef2f32abe442b5e9d4c486b8a668"
 metafile = true
 
 [[files]]
