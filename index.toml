@@ -203,6 +203,11 @@ hash = "7d6d95b48fd741ec6c734154500418d7a9d25fecb1bba374e038edb6b5486b35"
 metafile = true
 
 [[files]]
+file = "mods/ore-excavation.pw.toml"
+hash = "8fe586a5b4e6cdb8ef355098e333d68a6132c1549f8e429962933492f7ed716a"
+metafile = true
+
+[[files]]
 file = "mods/rubidium.pw.toml"
 hash = "0b0c777e3a9aab477e501e5731b84a092db42fc1606014b1c3403237e3e91391"
 metafile = true
