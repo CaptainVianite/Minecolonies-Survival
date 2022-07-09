@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2d78190b947fa47aa6ece9615a909e9ec482c6ce09da07dae39246498cb2b854"
+hash = "c9184c621a9780a17d278a247cb84cab56ccf962039f4fd2f67f74cbee170b7a"
 metafile = true
 
 [[files]]
@@ -85,11 +85,6 @@ hash = "f2078e00aad041ef32f703f377197aa3732b1120529cf718b2c5abbc28c99640"
 metafile = true
 
 [[files]]
-file = "mods/fast-leaf-decay.pw.toml"
-hash = "ae26bb08e6208f66a44f5e6b72b9b4881bcab5dc5869feb0e2e83ac1f420df69"
-metafile = true
-
-[[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "cf34439d6fc7385cbf74aa7325f5e5878d468b032a40ac4423e3337c2f63de7e"
 metafile = true
@@ -102,16 +97,6 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "be5b452b05f601abbb2fa020a8ac4773224890fb3758eb84fe024e2c2a5cffaf"
-metafile = true
-
-[[files]]
-file = "mods/inventory-essentials.pw.toml"
-hash = "e6bf91c0f22f70ae04937c27809dccf3903c21a6175b4d77ef8fe7c6f4f7ff5e"
-metafile = true
-
-[[files]]
-file = "mods/inventory-sorter.pw.toml"
-hash = "fcbff794b54f900accbf5d03fcb6d9adda7f0f704ca8fad53ccef69737089fdf"
 metafile = true
 
 [[files]]
@@ -131,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "4820739e24f04985d70d086a637828d1a34c8d2870eb5f7b7faee69bed754ae1"
+hash = "b9447d64103462fd6a2a30cbf4205418f25d9940c71ee35a1053be984fb8a8f4"
 metafile = true
 
 [[files]]
@@ -146,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
-hash = "1fd3c85521fded2f63f994cb1f8c28bba1b05f6425f9f3525f0c8993889def64"
+hash = "cf3fdce26e5c06cd47445cbb9ab46c92ec6caefa5afcf2a9aa2465377fdffede"
 metafile = true
 
 [[files]]
@@ -214,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "8c83a64281bdde5365d1b488ae6e786873df875dfded979b46d28d224156c068"
+hash = "7d6d95b48fd741ec6c734154500418d7a9d25fecb1bba374e038edb6b5486b35"
 metafile = true
 
 [[files]]
@@ -224,12 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "31da46e2eb68566f5c509b057845c47745202735db867bc4d0443758b26e3c69"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "ef56824b9b1a6159c6a495a3cb0f48df3f22a919dc7e29ffbaa596c9e991d2bf"
+hash = "0b0c777e3a9aab477e501e5731b84a092db42fc1606014b1c3403237e3e91391"
 metafile = true
 
 [[files]]
@@ -259,5 +239,5 @@ metafile = true
 
 [[files]]
 file = "mods/terrablender.pw.toml"
-hash = "54478e1f80a113ce1ab9d70a781f3919980284087b1efe3d5ee65f2115003a88"
+hash = "9babb3fa6d449fa3c80b110c1279a0ba77ab028c15f15428cb792e00cedf48c2"
 metafile = true
