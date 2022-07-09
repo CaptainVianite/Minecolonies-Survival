@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/SereneSeasons-1.19-8.0.0.17.jar"
+hash = "5fb266da63e4e06ef7ab1018d44e78c54642292fb8139bd53d969c2402e44c0d"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "f0fe061476f80e26b8c66cee47fc3e7358e82e23f0aa31a847db8dd48d10a9d8"
 metafile = true
@@ -225,11 +229,6 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "31da46e2eb68566f5c509b057845c47745202735db867bc4d0443758b26e3c69"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "ef56824b9b1a6159c6a495a3cb0f48df3f22a919dc7e29ffbaa596c9e991d2bf"
 metafile = true
 
 [[files]]
