@@ -85,6 +85,11 @@ hash = "f2078e00aad041ef32f703f377197aa3732b1120529cf718b2c5abbc28c99640"
 metafile = true
 
 [[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "ae26bb08e6208f66a44f5e6b72b9b4881bcab5dc5869feb0e2e83ac1f420df69"
+metafile = true
+
+[[files]]
 file = "mods/goblin-traders.pw.toml"
 hash = "cf34439d6fc7385cbf74aa7325f5e5878d468b032a40ac4423e3337c2f63de7e"
 metafile = true
@@ -97,6 +102,16 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "be5b452b05f601abbb2fa020a8ac4773224890fb3758eb84fe024e2c2a5cffaf"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "e6bf91c0f22f70ae04937c27809dccf3903c21a6175b4d77ef8fe7c6f4f7ff5e"
+metafile = true
+
+[[files]]
+file = "mods/inventory-sorter.pw.toml"
+hash = "fcbff794b54f900accbf5d03fcb6d9adda7f0f704ca8fad53ccef69737089fdf"
 metafile = true
 
 [[files]]
@@ -210,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "0b0c777e3a9aab477e501e5731b84a092db42fc1606014b1c3403237e3e91391"
+metafile = true
+
+[[files]]
+file = "mods/serene-seasons.pw.toml"
+hash = "ef56824b9b1a6159c6a495a3cb0f48df3f22a919dc7e29ffbaa596c9e991d2bf"
 metafile = true
 
 [[files]]
