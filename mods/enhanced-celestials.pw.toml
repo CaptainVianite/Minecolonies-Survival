@@ -1,0 +1,13 @@
+name = "Enhanced Celestials - Blood, Blue, & Harvest (Super) Moons"
+filename = "Enhanced_Celestials-forge-1.19-2.0.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "94a9ee704394433e208657e2d81b5d6f34d14c57"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3825666
+project-id = 438447

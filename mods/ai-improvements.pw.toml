@@ -1,0 +1,13 @@
+name = "AI Improvements"
+filename = "AI-Improvements-1.19-0.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3385375724977491c31975b302714949c6bd6fb1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3827361
+project-id = 233019
