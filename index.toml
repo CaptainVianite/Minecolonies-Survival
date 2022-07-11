@@ -56,11 +56,6 @@ hash = "8d277b9a61a8d95ce23927890b3b7c3c8e7d6abe46b7c4a23871740c9dddb7bd"
 metafile = true
 
 [[files]]
-file = "mods/blue-skies.pw.toml"
-hash = "fca135b9116ee1a0422db43f7d4fd8712feacd250dc484beb4059a664094ea6d"
-metafile = true
-
-[[files]]
 file = "mods/bookshelf.pw.toml"
 hash = "41895cc2d416cd3875cb06629ff864f172c13d8fbe88e0fc190d1b312cf7f436"
 metafile = true
