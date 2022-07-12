@@ -1,0 +1,13 @@
+name = "All the Mods 7"
+author = "ATMTeam"
+version = "0.4.20"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fd83a767064c3d34be6971d42d56279c8d0988175769cd652b9483d1d35f69f0"
+
+[versions]
+forge = "40.1.31"
+minecraft = "1.18.2"

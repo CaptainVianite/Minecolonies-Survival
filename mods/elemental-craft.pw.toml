@@ -1,0 +1,13 @@
+name = "Elemental Craft"
+filename = "elementalcraft-1.18.2-4.4.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45f0396894336f258c716c07754121b508af9f77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3855229
+project-id = 395158

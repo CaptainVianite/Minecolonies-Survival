@@ -1,0 +1,13 @@
+name = "The Lost Cities"
+filename = "lostcities-1.18-5.3.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c125fd86caccc23709a88e2df8b6bf523d2aa02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3866716
+project-id = 269024
