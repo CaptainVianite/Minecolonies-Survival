@@ -3290,11 +3290,6 @@ hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true
 
 [[files]]
-file = "mods/when-dungeons-arise.pw.toml"
-hash = "b83f8905d9f0b6c63347c384e5c3189bb431df0f4ecf80649eef668f584da654"
-metafile = true
-
-[[files]]
 file = "mods/wireless-chargers.pw.toml"
 hash = "c75091c68dede72bf4c96bd518e7cecbed334c7496e32d0bbfea1d4db590502d"
 metafile = true
