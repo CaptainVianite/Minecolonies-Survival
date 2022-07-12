@@ -2751,8 +2751,8 @@ hash = "1e3256743830fc8970f761e38ec328a3052976cab65ccc15d2c8b73a4ae92136"
 metafile = true
 
 [[files]]
-file = "mods/moreoverlays-1.20.6-mc1.18.2.jar"
-hash = "5418e49cf32fbf800b611f533485740c3f95e7b04eefc66e6ce5bfd33fd8350a"
+file = "mods/moreoverlays-1.20.5-mc1.18.1.jar"
+hash = "c7badf70c6113b748d41f6354d8ae8d048b3d472f457273eebe93f4d960def19"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
