@@ -1681,6 +1681,10 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "31e3d8ae834615a469a57eab6a62c0f9363db66e73060a8255879ae955b12c2f"
 
 [[files]]
+file = "mods/SecurityCraft+v1.9.2.jar"
+hash = "558cf47e8e2feb0780057f3d5f10e47d7b97584f3f06f41784df00fc9d20124f"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "d1f108d2420df1ab0027cebc4ef8525ac09ace0d3a7e433dade46446708c0dd4"
 metafile = true
@@ -3058,11 +3062,6 @@ metafile = true
 [[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "f6688844f1d9862f41e19bd17de80d9949f57de8203578f3272f2642828fd193"
-metafile = true
-
-[[files]]
-file = "mods/security-craft.pw.toml"
-hash = "227d34a142b5c6228d148ce0abe58a4071706760e3ab326db0af918cb70c3fdf"
 metafile = true
 
 [[files]]
