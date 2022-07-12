@@ -1569,24 +1569,24 @@ file = "kubejs/server_scripts/harvest.js"
 hash = "c3a7f888c0ad1e22f28bf741c60af88a77307240850d81215f7cbd6ec2f535ff"
 
 [[files]]
-file = "kubejs/server_scripts/mod_specific/_allthemods/allthemodium.js"
+file = "kubejs/server_scripts/mod_specific/ae/ae.js"
+hash = "0cec4680940563f51d9217407db5dfceb35d3442bc6ff922e4bda2fb9d333cdf"
+
+[[files]]
+file = "kubejs/server_scripts/mod_specific/allthemods/allthemodium.js"
 hash = "92efb1f49ea41c4273d2b9ef1bba1609ecba99039b8351ea55967fe5fbc80ced"
 
 [[files]]
-file = "kubejs/server_scripts/mod_specific/_allthemods/atm_shard.js"
+file = "kubejs/server_scripts/mod_specific/allthemods/atm_shard.js"
 hash = "b789b2f0ca0c884b859e4085370009e465d0504efa889127b879a392eefc571e"
 
 [[files]]
-file = "kubejs/server_scripts/mod_specific/_allthemods/atm_star.js"
+file = "kubejs/server_scripts/mod_specific/allthemods/atm_star.js"
 hash = "1fcd72c4ebc874438f8dd8a6b61b028193f9b1e0a0339287d35c9e3619cbf4af"
 
 [[files]]
-file = "kubejs/server_scripts/mod_specific/_allthemods/atm_star_creative.js"
+file = "kubejs/server_scripts/mod_specific/allthemods/atm_star_creative.js"
 hash = "946e4a34a68a7eb4d53cd170165efa34245514fe0b4ac40867dd10eb17f3a7c3"
-
-[[files]]
-file = "kubejs/server_scripts/mod_specific/ae/ae.js"
-hash = "0cec4680940563f51d9217407db5dfceb35d3442bc6ff922e4bda2fb9d333cdf"
 
 [[files]]
 file = "kubejs/server_scripts/mod_specific/angelring/angelring.js"
