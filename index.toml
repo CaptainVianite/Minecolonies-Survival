@@ -2009,9 +2009,8 @@ hash = "ad81ebe6d63199abca1b0f6fe62cd17ca42084da95f72b23e1f0ab8b0dd3794c"
 metafile = true
 
 [[files]]
-file = "mods/connectivity.pw.toml"
-hash = "91a394b2cdf153332e2f39bb353203c94aeabb344432b2bb17b5197feebdcc1a"
-metafile = true
+file = "mods/connectivity-1.18.2-3.2.jar"
+hash = "001e708798ed1a5270896b5759c3f0991a52357de6e62cf67f26a267197590ac"
 
 [[files]]
 file = "mods/construction-wand.pw.toml"
