@@ -1681,6 +1681,10 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "31e3d8ae834615a469a57eab6a62c0f9363db66e73060a8255879ae955b12c2f"
 
 [[files]]
+file = "mods/ExperienceBugFix-1.18-1.38.0.2.jar"
+hash = "0fadc3667e47c02f3236f74fbc29d1de24e5b330cd898e6cc2ce27e873171dfb"
+
+[[files]]
 file = "mods/SecurityCraft+v1.9.2.jar"
 hash = "558cf47e8e2feb0780057f3d5f10e47d7b97584f3f06f41784df00fc9d20124f"
 
@@ -2160,9 +2164,8 @@ hash = "28d07ef42a05d8481367aa90562fa67f7b1ef6c3fd8060052fe89f3a6efacd9b"
 metafile = true
 
 [[files]]
-file = "mods/eccentric-tome.pw.toml"
-hash = "2802d7b553aeadd82d1e51325ee1125c603a06e002ccd2a4e667c8ce9cb67a53"
-metafile = true
+file = "mods/eccentrictome-1.18.2-1.7.0-beta.jar"
+hash = "b2c5c0d7dfedcba3e99897b6d4d0b4a67e279ec25321ec4fce043ce32211e637"
 
 [[files]]
 file = "mods/elemental-craft.pw.toml"
@@ -2217,11 +2220,6 @@ metafile = true
 [[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "ab799aeda7413bcb31c2119de91f50833168badc173df42a8476aa7f11fc5dd3"
-metafile = true
-
-[[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
 metafile = true
 
 [[files]]
@@ -2302,11 +2300,6 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "49ac4b54302b17b6df0411394d3cd336ae775df8f981d1fee961c7cb52282e32"
-metafile = true
-
-[[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "ace65cf55382d75594f2b2429302dd19b8b53c37d1a805fb5a46a766d95d2229"
 metafile = true
 
 [[files]]
@@ -2420,9 +2413,8 @@ hash = "91ba771c9abda115d6ea9d149d108320e334254343d2101679b689d3c473d7f7"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "30df80062e88163a7521407b764c89eaa4d5cef1318ed77e9357c13ac1544ba5"
-metafile = true
+file = "mods/hexerei-0.1.19.jar"
+hash = "4f238721b4dabaeac6e2ff168f0c0131fb2696759c58f6482ded162f83efbf27"
 
 [[files]]
 file = "mods/hostile-neural-networks.pw.toml"
@@ -2755,14 +2747,13 @@ hash = "5d716e7827b4557b0835f798f71a6ca66e7b407740bcdae4c35396e91114f26e"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "7a36034d2a19ecca074736b742a64395167c57228823f721f605a5c3d146c125"
-metafile = true
-
-[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "1e3256743830fc8970f761e38ec328a3052976cab65ccc15d2c8b73a4ae92136"
 metafile = true
+
+[[files]]
+file = "mods/moreoverlays-1.20.6-mc1.18.2.jar"
+hash = "5418e49cf32fbf800b611f533485740c3f95e7b04eefc66e6ce5bfd33fd8350a"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
