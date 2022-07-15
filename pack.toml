@@ -1,12 +1,12 @@
-name = "Minecolonies Survival"
-author = "CaptainVianite"
-version = "2.0.0"
+name = "All the Mods 7"
+author = "ATMTeam"
+version = "0.4.21"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3fd474cc4560eb23f22dc034c563aa5c49483e386c51f670320c002d72aed5f3"
+hash = "78ce12361108279bc1ec2433e6fa23c0fee427a55880b1c19e75dbf5e0daa6d3"
 
 [versions]
 forge = "40.1.60"
