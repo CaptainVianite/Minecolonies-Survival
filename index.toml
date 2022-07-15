@@ -2317,9 +2317,8 @@ hash = "ab799aeda7413bcb31c2119de91f50833168badc173df42a8476aa7f11fc5dd3"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
-metafile = true
+file = "mods/entityculling-forge-mc1.18-1.5.1.jar"
+hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
