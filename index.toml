@@ -1841,8 +1841,8 @@ file = "mods/ExperienceBugFix-1.18-1.38.0.2 (1).jar"
 hash = "0fadc3667e47c02f3236f74fbc29d1de24e5b330cd898e6cc2ce27e873171dfb"
 
 [[files]]
-file = "mods/SecurityCraft+v1.9.2 (1).jar"
-hash = "558cf47e8e2feb0780057f3d5f10e47d7b97584f3f06f41784df00fc9d20124f"
+file = "mods/SecurityCraft v1.9.1.jar"
+hash = "a4cf9a254d01440817f0d9894785bbed85a53cfd0fa2e60acf98203010809088"
 
 [[files]]
 file = "mods/absent-by-design.pw.toml"
