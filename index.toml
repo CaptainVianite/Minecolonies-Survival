@@ -1837,6 +1837,14 @@ file = "kubejs/startup_scripts/worldgen.js"
 hash = "bec41a3131ee7680b0e21cf598ccc66692049488e604449bc3dd5e6ba885547a"
 
 [[files]]
+file = "mods/ExperienceBugFix-1.18-1.38.0.2 (1).jar"
+hash = "0fadc3667e47c02f3236f74fbc29d1de24e5b330cd898e6cc2ce27e873171dfb"
+
+[[files]]
+file = "mods/SecurityCraft+v1.9.2 (1).jar"
+hash = "558cf47e8e2feb0780057f3d5f10e47d7b97584f3f06f41784df00fc9d20124f"
+
+[[files]]
 file = "mods/absent-by-design.pw.toml"
 hash = "d1f108d2420df1ab0027cebc4ef8525ac09ace0d3a7e433dade46446708c0dd4"
 metafile = true
@@ -2297,9 +2305,8 @@ hash = "28d07ef42a05d8481367aa90562fa67f7b1ef6c3fd8060052fe89f3a6efacd9b"
 metafile = true
 
 [[files]]
-file = "mods/eccentric-tome.pw.toml"
-hash = "8f1811fb2fbd609877cbbcac2abb1bca0533dd94fd8116721b558ae6668e2610"
-metafile = true
+file = "mods/eccentrictome-1.18.2-1.3.1.jar"
+hash = "de77d78eac7fcceefad468e8a4415f1afc4ca0552bd0692d3a78b11bc99e59d5"
 
 [[files]]
 file = "mods/elemental-craft.pw.toml"
@@ -2352,9 +2359,8 @@ hash = "ab799aeda7413bcb31c2119de91f50833168badc173df42a8476aa7f11fc5dd3"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
-metafile = true
+file = "mods/entityculling-forge-mc1.18-1.5.1 (1).jar"
+hash = "a90510746cc6bb32edfd6513620a9e61dad8050adaab47fc60e11504d446786f"
 
 [[files]]
 file = "mods/evilcraft.pw.toml"
@@ -2429,11 +2435,6 @@ metafile = true
 [[files]]
 file = "mods/findme.pw.toml"
 hash = "49ac4b54302b17b6df0411394d3cd336ae775df8f981d1fee961c7cb52282e32"
-metafile = true
-
-[[files]]
-file = "mods/fix-experience-bug.pw.toml"
-hash = "ace65cf55382d75594f2b2429302dd19b8b53c37d1a805fb5a46a766d95d2229"
 metafile = true
 
 [[files]]
@@ -2537,9 +2538,8 @@ hash = "91ba771c9abda115d6ea9d149d108320e334254343d2101679b689d3c473d7f7"
 metafile = true
 
 [[files]]
-file = "mods/hexerei.pw.toml"
-hash = "30df80062e88163a7521407b764c89eaa4d5cef1318ed77e9357c13ac1544ba5"
-metafile = true
+file = "mods/hexerei-0.1.19 (1).jar"
+hash = "4f238721b4dabaeac6e2ff168f0c0131fb2696759c58f6482ded162f83efbf27"
 
 [[files]]
 file = "mods/hostile-neural-networks.pw.toml"
@@ -2837,9 +2837,8 @@ hash = "5d716e7827b4557b0835f798f71a6ca66e7b407740bcdae4c35396e91114f26e"
 metafile = true
 
 [[files]]
-file = "mods/more-overlays-updated.pw.toml"
-hash = "25842f38ce879d3d5d71cc2118d65dffda4b2655fd13af8b72758391266d949d"
-metafile = true
+file = "mods/moreoverlays-1.20.5-mc1.18.1 (1).jar"
+hash = "c7badf70c6113b748d41f6354d8ae8d048b3d472f457273eebe93f4d960def19"
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -3119,11 +3118,6 @@ metafile = true
 [[files]]
 file = "mods/scalable-cats-force.pw.toml"
 hash = "f6688844f1d9862f41e19bd17de80d9949f57de8203578f3272f2642828fd193"
-metafile = true
-
-[[files]]
-file = "mods/security-craft.pw.toml"
-hash = "1040e4342758a574abdbdf092a63f63740d899bad22e3b5710cbf17d137217c1"
 metafile = true
 
 [[files]]
